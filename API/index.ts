@@ -1,4 +1,5 @@
 import express from "express";
+import messagesRouter from "./routers/messages";
 import cors from "cors";
 import fileDb from "./fileDb";
 
